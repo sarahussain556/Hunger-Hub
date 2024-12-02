@@ -1,0 +1,23 @@
+.logo-img{
+    width: 80px;
+    max-height: 80px;
+    border-radius: 30px;
+    padding: 10px;
+  }
+  .nav-list {
+    list-style-type: none; /* Removes the default bullets */
+    margin: 0; /* Optional: Reset default margins */
+    display: flex; /* Optional: Align items horizontally */
+    gap: 30px; /* Optional: Add spacing between items */
+    color: #282c3f;
+    font-size: 16px;
+    font-weight: 500;
+    padding: 15px 80px;
+  }
+  .header{
+    height: auto;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    align-items: flex-start;
+  }
